@@ -4,4 +4,6 @@
 
 //alteração feita em casa 
 
+<<<<<<< HEAD
 //Minha nova alteração feita aqui na escola
+
